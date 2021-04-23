@@ -1,12 +1,14 @@
 <h1 align="center">jest-testrail-reporter</h1>
 
-<section align="center">
-  <img alt="CI Status" src="https://github.com/JSanchezIO/jest-testrail-reporter/workflows/CI/badge.svg" />
-  <img alt="Code Style: Prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" />
-  <img alt="Commitizen Friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" />
-  <img alt="NPM Package Version" src="https://img.shields.io/npm/v/jest-testrail-reporter">
-  <img alt="Semantic Release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" />
-</section>
+<div align="center">
+
+[![CI Status](https://github.com/JSanchezIO/jest-testrail-reporter/workflows/CI/badge.svg)](https://github.com/JSanchezIO/jest-testrail-reporter/actions/workflows/ci.yml)
+[![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
+[![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![NPM Package Version](https://img.shields.io/npm/v/jest-testrail-reporter)](https://www.npmjs.com/package/jest-testrail-reporter)
+[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://semantic-release.gitbook.io/semantic-release/)
+
+</div>
 
 <br />
 

@@ -1,0 +1,12 @@
+
+# Builds
+dist/
+
+# Dependencies
+node_modules/
+
+# Editors
+.vscode/
+
+# Tests
+.stryker-tmp

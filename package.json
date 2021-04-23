@@ -15,8 +15,8 @@
     "ci:lint": "eslint './**/*.@(js|js|ts|ts)'",
     "ci:release": "semantic-release",
     "ci:types": "tsc --noEmit",
-    "prepare": "is-ci || husky install",
-    "validate": "npm-run-all ci:lint ci:types"
+    "ci:validate": "npm-run-all ci:lint ci:types",
+    "prepare": "is-ci || husky install"
   },
   "files": [
     "dist",

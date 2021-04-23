@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">jest-testrail-reporter</h1>
+<h1 align="center">jest-testrail-reporter</h1>
 
-<section style="text-align: center;">
+<section align="center">
   <img alt="CI Status" src="https://github.com/JSanchezIO/jest-testrail-reporter/workflows/CI/badge.svg" />
   <img alt="Code Style: Prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" />
   <img alt="Commitizen Friendly" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" />

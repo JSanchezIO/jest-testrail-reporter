@@ -1,6 +1,6 @@
 {
   "name": "jest-testrail-reporter",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Report Jest test results to TestRail",
   "license": "MIT",
   "repository": {
@@ -40,6 +40,7 @@
     "@commitlint/config-conventional": "^12.1.1",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.2.1",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
     "commitizen": "^4.2.3",

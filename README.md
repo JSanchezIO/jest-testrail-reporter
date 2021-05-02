@@ -1,3 +1,9 @@
+<div align="center">
+
+> ### This package has been archived in favor of [junit-testrail-reporter](https://github.com/JSanchezIO/junit-testrail-reporter)
+
+</div>
+
 <h1 align="center">jest-testrail-reporter</h1>
 
 <div align="center">

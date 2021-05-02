@@ -1,6 +1,6 @@
 {
   "name": "jest-testrail-reporter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Report Jest test results to TestRail",
   "license": "MIT",
   "repository": {
